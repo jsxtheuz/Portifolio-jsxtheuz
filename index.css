@@ -160,10 +160,9 @@ a{
 
 @media screen and (max-width: 1200px) {
    .card-1, .card-2, .card-3{
-      margin-top:15px;
       float: none;
       width: 80%;
-      margin: auto;
+      margin-left: auto;
       text-align: center;
       justify-content: center;
       align-items: center;
